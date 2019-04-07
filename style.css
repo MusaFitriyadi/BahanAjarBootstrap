@@ -1,0 +1,77 @@
+/*header*/
+.header{
+	background: #5AB2FF;
+	padding: 50px;
+	text-align: center;
+	color: white /*atau #fff*/
+}
+/*penutup header css*/
+
+/*navigasi*/
+.navigasi{
+	background: #3E3E3E;
+	text-align: center;
+	padding: 10px;
+}
+/*css untuk link*/
+.navigasi a{
+	color: white; 
+	padding: 0px 20px;
+}
+.navigasi a:hover{
+	color: white;
+}
+/*penutup css navigasi*/
+
+/*css about*/
+.about{
+	padding: 50px;
+}
+.Judulabout{
+	text-align: center;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.isiabout{
+	text-align: justify;
+}
+/*penutup css about*/
+
+/*css portofolio*/
+.portofolio{
+	padding:50px;
+	background: #e8e8e8;
+}
+.Judulportofolio{
+	text-align: center;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.card{
+	margin-bottom: 10px;
+}
+/*penutup css portofolio*/
+
+/*css contact*/
+.contact{
+	padding:50px;
+}
+.kontak{
+	margin-right: 5px;
+	border-right: 1px solid #ccc;
+}
+.kirimpesan{
+	background: #5AB2FF;
+	width: 100%;
+}
+/*penutup css contact*/
+
+.footer{
+	background: #3E3E3E;
+	text-align: center;
+	padding:10px;
+}
+.credit{
+	color: #fff;
+	margin: 0px;
+}
